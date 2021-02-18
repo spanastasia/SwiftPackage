@@ -8,7 +8,7 @@
 import Foundation
 
 public class SomeClass {
-    public func doSmth() {
+    public static func doSmth() {
         print("Hollo World!")
     }
 }
